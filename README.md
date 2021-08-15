@@ -1,7 +1,7 @@
 # SDC
 Self Driving Car Using Raspberry Pi &amp; Machine Learning Technology
 
-#Hardware & Technology used :
+# Hardware & Technology used :
 
 Raspberry pi 3
 Webcam for collecting data
@@ -10,7 +10,7 @@ OpenCV for Image Processing
 Tensorflow for Object Detection
 Python programming language
 
-#Features
+# Features
 
 Physical Object Detection
 Traffic Signal Detection
